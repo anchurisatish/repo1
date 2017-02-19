@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is B831-A96B
-
- Directory of D:\Users\santubhai\Desktop\gitpractical
-
-02/18/2017  08:53 PM    <DIR>          .
-02/18/2017  08:53 PM    <DIR>          ..
-02/18/2017  08:53 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  150,473,707,520 bytes free
+1)i am new to git
